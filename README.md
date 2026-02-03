@@ -1,3 +1,4 @@
+  <img src="assets/banner.png" alt="GitHub Banner" />
 <h1 align="center">Hi 👋, I'm Vishal Uttam Mane</h1>
 <h3 align="center">Software Engineer | Full-Stack | AI & SaaS Builder</h3>
 
